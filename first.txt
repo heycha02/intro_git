@@ -4,3 +4,4 @@
 ・git commit
 yaa
 git status
+git diff
